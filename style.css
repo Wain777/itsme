@@ -24,7 +24,7 @@ a:visited {
   font-size: 80px;
   text-transform: uppercase;
   letter-spacing: 12px;
-  margin-bottom: 160px;
+  margin-bottom: 250px;
   color: transparent;
   -webkit-text-stroke-color: #d3f3ff;
   -webkit-text-stroke-width: 3px;
@@ -64,5 +64,8 @@ a:visited {
   .links ul li {
     display: flex;
     justify-content: center;
+  }
+  .main h1 {
+    margin-bottom: 80px;
   }
 }
